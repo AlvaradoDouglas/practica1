@@ -1,2 +1,2 @@
 # practica1
-Este repositorio es para repasar la clase de Coursera.
+Este repositorio es para repasar la clase de Coursera - Johns Hopkings.
